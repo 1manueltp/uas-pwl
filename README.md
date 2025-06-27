@@ -32,6 +32,6 @@ Roues d'Or adalah aplikasi e-Commerce mobil berbasis CodeIgniter 4, dibuat untuk
 3. Import toko_db.sql ke database MySQL
 
 🙏 Terima Kasih
-Terima kasih telah menggunakan Roues d'Or.
+>_Terima kasih telah menggunakan Roues d'Or._
 Semoga pengalaman Anda penuh kemewahan.
-À bientôt! 🥂
+>_À bientôt! 🥂_

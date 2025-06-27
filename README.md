@@ -25,6 +25,7 @@ Roues d'Or adalah aplikasi e-Commerce mobil berbasis CodeIgniter 4, dibuat untuk
    git clone https://github.com/imanueltp/uas-pwl.git
    cd uas-pwl
 2. Jalankan:
+   ```bash
    composer install
    cp env .env
    php spark serve
